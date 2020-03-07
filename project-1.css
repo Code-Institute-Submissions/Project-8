@@ -71,8 +71,8 @@
     font-size: 32px;
 }
 
-.about img{
-    animation: shake 1.0s;
+.about img.shake{
+    animation: shake 1.5s;
     animation-iteration-count: infinite;
 }
 
