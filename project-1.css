@@ -61,10 +61,12 @@
 
 .about p{
     font-family: 'Red Hat Display', sans-serif;
+    font-size: 18px
 }
 
 
 .about p span{
     color: rgb(194, 18, 247);
     font-family: 'Nanum Pen Script', sans-serif;
+    font-size: 32px;
 }
