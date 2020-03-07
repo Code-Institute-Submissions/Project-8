@@ -4,6 +4,8 @@
 
 
 
+
+
 .masthead{
     height: 100vh;
     min-height: 500px;
@@ -42,3 +44,27 @@
     color: white;
 }
 
+
+
+
+
+.about h1{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+.about h1 span{
+    color: #1ac9cf;
+    font-family: 'Michroma', sans-serif;
+
+}
+
+.about p{
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+
+.about p span{
+    color: rgb(194, 18, 247);
+    font-family: 'Nanum Pen Script', sans-serif;
+}
