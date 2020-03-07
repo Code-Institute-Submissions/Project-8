@@ -68,7 +68,7 @@
 .about p span{
     color: rgb(194, 18, 247);
     font-family: 'Nanum Pen Script', sans-serif;
-    font-size: 32px;
+    font-size: 30px;
 }
 
 .about img.shake{
@@ -93,6 +93,28 @@
 
 
 .skill{
-    border: solid 2px #1ac9cf;
+    height: 100vh;
+    background-color: rgb(248, 242, 248);
     margin: 150px;
 }
+
+.skill h1{
+    font-family: 'Ubuntu', sans-serif;    
+}
+
+.skill h1 span{
+    font-family: 'Michroma', sans-serif;
+    color: #1ac9cf;
+}
+
+.skillbar{
+    width: 50%;
+    background-color: #ddd;
+    box-sizing: border-box;
+}
+
+.html{width: 90%; background-color: #FF9010;}
+.css{width: 75%; background-color: #FF9010;}
+.bootstrap{width: 85%; background-color: #FF9010;}
+.js{width: 60%; background-color: #FF9010;}
+.jquery{width: 60%; background-color: #FF9010;}
