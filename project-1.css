@@ -23,7 +23,7 @@
 
 .masthead p span{
     font-family: 'Lato', sans-serif;
-    font-size: 20px
+    font-size: 20px;
 }
 
 .masthead .tab{
@@ -47,6 +47,10 @@
 
 
 
+.about .container{
+    padding-top: 10%;
+}
+
 
 .about h1{
     font-family: 'Ubuntu', sans-serif;
@@ -61,7 +65,7 @@
 
 .about p{
     font-family: 'Red Hat Text', sans-serif;
-    font-size: 18px
+    font-size: 1em;
 }
 
 
@@ -94,8 +98,8 @@
 
 .skill{
     height: 100vh;
-    background-color: rgb(248, 242, 248);
-    margin: 150px;
+    background-color: rgb(253, 249, 252);
+    margin: 150px;   
 }
 
 .skill h1{
@@ -107,14 +111,22 @@
     color: #1ac9cf;
 }
 
-.skillbar{
-    width: 50%;
+.skill p{
+    font-family: 'Nanum Pen Script', sans-serif;
+    font-size: 1.5em;
+    margin-bottom: 0;    
+    }
+
+.skillbar .container{
+    width: 100%;
     background-color: #ddd;
-    box-sizing: border-box;
+    color: white;
+    text-align: right; 
+    padding-left: 0%;   
 }
 
-.skillbar .html{width: 90%; background-color: #FF9010;}
-.skillbar .css{width: 75%; background-color: #FF9010;}
-.skillbar .bootstrap{width: 85%; background-color: #FF9010;}
-.skillbar .js{width: 60%; background-color: #FF9010;}
-.skillbar .jquery{width: 60%; background-color: #FF9010;}
+.skillbar .html{width: 90%; background-color: #1ac9cf;font-family: 'Ubuntu',sans-serif;}
+.skillbar .css{width: 75%; background-color: #1ac9cf; font-family: 'Ubuntu',sans-serif;}
+.skillbar .bootstrap{width: 85%; background-color: #1ac9cf; font-family: 'Ubuntu',sans-serif;}
+.skillbar .js{width: 60%; background-color: #1ac9cf; font-family: 'Ubuntu',sans-serif;}
+.skillbar .jquery{width: 60%; background-color: #1ac9cf; font-family: 'Ubuntu',sans-serif;}
