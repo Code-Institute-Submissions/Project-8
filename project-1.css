@@ -113,8 +113,8 @@
     box-sizing: border-box;
 }
 
-.html{width: 90%; background-color: #FF9010;}
-.css{width: 75%; background-color: #FF9010;}
-.bootstrap{width: 85%; background-color: #FF9010;}
-.js{width: 60%; background-color: #FF9010;}
-.jquery{width: 60%; background-color: #FF9010;}
+.skillbar .html{width: 90%; background-color: #FF9010;}
+.skillbar .css{width: 75%; background-color: #FF9010;}
+.skillbar .bootstrap{width: 85%; background-color: #FF9010;}
+.skillbar .js{width: 60%; background-color: #FF9010;}
+.skillbar .jquery{width: 60%; background-color: #FF9010;}
