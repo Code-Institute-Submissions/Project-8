@@ -65,14 +65,14 @@
 
 .about p{
     font-family: 'Red Hat Text', sans-serif;
-    font-size: 1em;
+    font-size: 1.3em;
 }
 
 
 .about p span{
     color: rgb(194, 18, 247);
     font-family: 'Nanum Pen Script', sans-serif;
-    font-size: 30px;
+    font-size: 1.5em;
 }
 
 .about img.shake{
@@ -103,16 +103,18 @@
 }
 
 .skill h1{
-    font-family: 'Ubuntu', sans-serif;    
+    font-family: 'Ubuntu', sans-serif;   
+    color: rgb(150, 50, 180); 
 }
 
 .skill h1 span{
-    font-family: 'Michroma', sans-serif;
-    color: #1ac9cf;
+    font-family: 'Ubuntu', sans-serif;
+    color:#1ac9cf;
+    
 }
 
 .skill p{
-    font-family: 'Nanum Pen Script', sans-serif;
+    font-family: 'NTR', sans-serif;
     font-size: 1.5em;
     margin-bottom: 0;    
     }
