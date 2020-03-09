@@ -49,7 +49,8 @@
 
 
 .about .container{
-    padding-top: 10%;
+    padding-top: 8%;
+    padding-bottom: 8%;
 }
 
 
@@ -153,3 +154,21 @@
 .skillbar .bootstrap{width: 85%; background-color: #1ac9cf; font-family: 'Ubuntu',sans-serif;}
 .skillbar .js{width: 60%; background-color: #1ac9cf; font-family: 'Ubuntu',sans-serif;}
 .skillbar .jquery{width: 60%; background-color: #1ac9cf; font-family: 'Ubuntu',sans-serif;}
+
+
+
+
+
+.scroll{
+    background-color: rgb(253, 249, 252);
+}
+
+.scroll .img{
+    height: 150vh;
+    min-height: 500px;    
+    background-image: url(/img/salty.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
