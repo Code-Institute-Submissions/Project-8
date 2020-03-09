@@ -107,9 +107,9 @@
 .skill h1{
     font-family: 'Ubuntu', sans-serif;   
     color: rgb(150, 50, 180); 
-    
-    
-
+    position:relative;
+    z-index: 4;
+       
 }
 
 .skill h1 span{
@@ -129,6 +129,18 @@
     color: white;
     text-align: right; 
     padding-left: 0%;   
+}
+
+.skill .box{
+    border: 1px solid #F1FE00;
+    width: 300px;
+    height: 100px;
+    position: absolute;
+    top: 100px;
+    left: 500px;
+    background-color: #F1FE00;
+    z-index: 0;
+   
 }
 
 .skillbar .html{width: 90%; background-color: #1ac9cf;font-family: 'Ubuntu',sans-serif;}
