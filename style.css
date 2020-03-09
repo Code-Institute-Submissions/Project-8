@@ -13,6 +13,7 @@
     background-size: cover;
     background-repeat: no-repeat;  
     background-position: center;  
+    background-attachment: fixed;
 }
 
 .masthead p{
@@ -30,7 +31,7 @@
     padding-left: 15%;
 }
 
-.masthead h1,h3{
+.masthead h1, .masthead h3{
     font-family: 'Roboto Condensed', sans-serif;  
     color: #1ac9cf;          
 }
@@ -99,12 +100,16 @@
 .skill{
     height: 100vh;
     background-color: rgb(253, 249, 252);
-    margin: 150px;   
+     
+      
 }
 
 .skill h1{
     font-family: 'Ubuntu', sans-serif;   
     color: rgb(150, 50, 180); 
+    
+    
+
 }
 
 .skill h1 span{
@@ -119,7 +124,7 @@
     }
 
 .skillbar .container{
-    width: 100%;
+    width: 70%;
     background-color: #ddd;
     color: white;
     text-align: right; 
