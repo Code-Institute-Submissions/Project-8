@@ -107,17 +107,18 @@
 
 .skill h1{
     font-family: 'Ubuntu', sans-serif;   
-    color: rgb(150, 50, 180); 
+    color: #1ac9cf; 
     position:relative;
     z-index: 4;
        
 }
 
 .skill h1 span{
-    color:#1ac9cf;    
+    color: rgb(194, 18, 247);    
 }
 
 .skill p{
+    color: rgb(150, 50, 180);
     font-family: 'NTR', sans-serif;
     font-size: 1.5em;
     margin-bottom: 0;  
@@ -146,6 +147,7 @@
 .skill .boxtext{
     margin-top: 50px;
     font-family: 'Gamja Flower', sans-serif;
+    color: #000;
 
 }
 
