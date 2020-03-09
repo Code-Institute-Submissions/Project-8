@@ -139,8 +139,13 @@
     top: 100px;
     left: 500px;
     background-color: #F1FE00;
-    z-index: 0;
-   
+    z-index: 0;   
+}
+
+.skill .boxtext{
+    margin-top: 50px;
+    font-family: 'Gamja Flower', sans-serif;
+
 }
 
 .skillbar .html{width: 90%; background-color: #1ac9cf;font-family: 'Ubuntu',sans-serif;}
