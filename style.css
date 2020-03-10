@@ -119,7 +119,7 @@
 
 .skill p{
     color: rgb(150, 50, 180);
-    font-family: 'NTR', sans-serif;
+    font-family: 'Gamja Flower', sans-serif;
     font-size: 1.5em;
     margin-bottom: 0;  
     margin-top: 5px;
@@ -187,5 +187,5 @@
 
 }
 
-.resume .skillbar .eng{width: 93%; background-color: #1ac9cf;font-family: 'Ubuntu',sans-serif;}
-.resume .skillbar .kor{width: 97%; background-color: #1ac9cf; font-family: 'Ubuntu',sans-serif;}
+.resume .skillbar .eng{width: 86%; background-color: #1ac9cf;font-family: 'Ubuntu',sans-serif;}
+.resume .skillbar .kor{width: 92%; background-color: #1ac9cf; font-family: 'Ubuntu',sans-serif;}
