@@ -49,8 +49,8 @@
 
 
 .about .container{
-    padding-top: 8%;
-    padding-bottom: 8%;
+    padding-top: 5%;
+    padding-bottom: 5%;
 }
 
 
@@ -99,31 +99,33 @@
 
 
 .skill{
-    height: 100vh;
+    height: 100%;
     background-color: rgb(253, 249, 252);
      
       
 }
 
 .skill h1{
-    font-family: 'Ubuntu', sans-serif;   
-    color: #1ac9cf; 
+    font-family: 'Ubuntu', sans-serif;  
     position:relative;
-    z-index: 4;
-       
+    z-index: 4;       
 }
+
+
 
 .skill h1 span{
     color: rgb(194, 18, 247);    
 }
 
 .skill p{
-    color: rgb(150, 50, 180);
+    
     font-family: 'Gamja Flower', sans-serif;
     font-size: 1.5em;
     margin-bottom: 0;  
     margin-top: 5px;
     }
+
+
 
 .skillbar .container{
     width: 70%;
@@ -144,8 +146,8 @@
     width: 300px;
     height: 100px;
     position: absolute;
-    top: 48%;
-    left: 44%;
+    top: 40%;
+    left: 50%;
     background-color: #F1FE00;
     z-index: 0;   
 }
@@ -168,13 +170,14 @@
 }
 
 .resume .container{
-    height: 150vh;
-        
+    height: 100%;        
     background-image: url(/img/salty.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
+    padding: 4% 2%;
+
 }
 
 
@@ -187,8 +190,8 @@
 
 }
 
-.resume .skillbar .eng{width: 86%; background-color: #1ac9cf;font-family: 'Ubuntu',sans-serif;}
-.resume .skillbar .kor{width: 92%; background-color: #1ac9cf; font-family: 'Ubuntu',sans-serif;}
+.resume .skillbar .eng{width: 90%; background-color: #1ac9cf;font-family: 'Ubuntu',sans-serif;}
+.resume .skillbar .kor{width: 95%; background-color: #1ac9cf; font-family: 'Ubuntu',sans-serif;}
 
 
 .resume .edu{
@@ -198,4 +201,12 @@
 .resume .edu span{
     font-size: 0.75em;
     font-weight: lighter;
+}
+
+.resume .btn{
+    padding: 10px 20px;
+}
+
+.resume .btn_space{
+    padding-top: 10%;
 }
