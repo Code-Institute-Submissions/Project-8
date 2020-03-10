@@ -133,8 +133,14 @@
     padding-left: 0%;   
 }
 
+.skillbar .html{width: 90%; background-color: #1ac9cf;font-family: 'Ubuntu',sans-serif;}
+.skillbar .css{width: 75%; background-color: #1ac9cf; font-family: 'Ubuntu',sans-serif;}
+.skillbar .bootstrap{width: 85%; background-color: #1ac9cf; font-family: 'Ubuntu',sans-serif;}
+.skillbar .js{width: 60%; background-color: #1ac9cf; font-family: 'Ubuntu',sans-serif;}
+.skillbar .jquery{width: 60%; background-color: #1ac9cf; font-family: 'Ubuntu',sans-serif;}
+
+
 .skill .box{
-    
     width: 300px;
     height: 100px;
     position: absolute;
@@ -151,11 +157,7 @@
 
 }
 
-.skillbar .html{width: 90%; background-color: #1ac9cf;font-family: 'Ubuntu',sans-serif;}
-.skillbar .css{width: 75%; background-color: #1ac9cf; font-family: 'Ubuntu',sans-serif;}
-.skillbar .bootstrap{width: 85%; background-color: #1ac9cf; font-family: 'Ubuntu',sans-serif;}
-.skillbar .js{width: 60%; background-color: #1ac9cf; font-family: 'Ubuntu',sans-serif;}
-.skillbar .jquery{width: 60%; background-color: #1ac9cf; font-family: 'Ubuntu',sans-serif;}
+
 
 
 
@@ -174,3 +176,16 @@
     background-position: center;
     background-attachment: fixed;
 }
+
+
+.resume .skillbar{
+    width: 100%;
+    background-color: #ddd;
+    color: white;
+    text-align: right; 
+    
+
+}
+
+.resume .skillbar .eng{width: 93%; background-color: #1ac9cf;font-family: 'Ubuntu',sans-serif;}
+.resume .skillbar .kor{width: 97%; background-color: #1ac9cf; font-family: 'Ubuntu',sans-serif;}
