@@ -169,7 +169,7 @@
 
 .resume .container{
     height: 150vh;
-    min-height: 500px;    
+        
     background-image: url(/img/salty.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -189,3 +189,13 @@
 
 .resume .skillbar .eng{width: 86%; background-color: #1ac9cf;font-family: 'Ubuntu',sans-serif;}
 .resume .skillbar .kor{width: 92%; background-color: #1ac9cf; font-family: 'Ubuntu',sans-serif;}
+
+
+.resume .edu{
+    font-weight: bold;
+}
+
+.resume .edu span{
+    font-size: 0.75em;
+    font-weight: lighter;
+}
