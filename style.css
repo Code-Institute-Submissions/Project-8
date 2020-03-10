@@ -134,12 +134,12 @@
 }
 
 .skill .box{
-    border: 1px solid #F1FE00;
+    
     width: 300px;
     height: 100px;
     position: absolute;
-    top: 100px;
-    left: 500px;
+    top: 48%;
+    left: 44%;
     background-color: #F1FE00;
     z-index: 0;   
 }
@@ -161,11 +161,11 @@
 
 
 
-.scroll{
-    background-color: rgb(253, 249, 252);
+.resume{
+    background-color: rgb(253, 249, 252);    
 }
 
-.scroll .img{
+.resume .container{
     height: 150vh;
     min-height: 500px;    
     background-image: url(/img/salty.jpg);
