@@ -159,7 +159,7 @@
 
 .resume .container{
     height: 100%;        
-    background-image: url(/img/bg.jpg);    
+    background-image: linear-gradient(to bottom, rgba(245, 246, 252, 0.52), rgba(238, 222, 234, 0.73)), url(/img/4.jpg);    
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -169,6 +169,10 @@
 
 .resume .head{
     font-weight: 700;    
+}
+
+.resume .achv{
+    font-size: 0.95em;
 }
 
 .resume .bg-info{
@@ -185,7 +189,7 @@
 }
 
 .resume .edu span{
-    font-size: 0.75em;
+    font-size: 0.95em;
     font-weight: lighter;
 }
 
