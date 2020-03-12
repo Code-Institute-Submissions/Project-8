@@ -101,8 +101,6 @@
 .skill{
     height: 100%;
     background-color: rgb(253, 249, 252);
-     
-      
 }
 
 .skill h1{
@@ -110,8 +108,6 @@
     position:relative;
     z-index: 4;       
 }
-
-
 
 .skill h1 span{
     color: rgb(194, 18, 247);    
@@ -124,34 +120,14 @@
     margin-top: 5px;    
    }
 
-
-
-
-
-
-
-.skillbar .container{
-    width: 70%;
-    background-color: #ddd;
-    color: white;
-    text-align: right; 
-    padding-left: 0%;   
-}
-
 .skill .bg-info{
     background-color: #1ac9cf !important;
 }
 
-
-
-
-
-.skillbar .html{width: 90%; background-color: #1ac9cf;font-family: 'Ubuntu',sans-serif;}
-.skillbar .css{width: 75%; background-color: #1ac9cf; font-family: 'Ubuntu',sans-serif;}
-.skillbar .bootstrap{width: 85%; background-color: #1ac9cf; font-family: 'Ubuntu',sans-serif;}
-.skillbar .js{width: 60%; background-color: #1ac9cf; font-family: 'Ubuntu',sans-serif;}
-.skillbar .jquery{width: 60%; background-color: #1ac9cf; font-family: 'Ubuntu',sans-serif;}
-
+.skill .progress{
+    background-color: rgb(238, 235, 235);
+    height: 22px;
+}
 
 .skill .box{
     width: 300px;
@@ -183,35 +159,26 @@
 
 .resume .container{
     height: 100%;        
-    background-image: url(/img/salty.jpg);    
+    background-image: url(/img/bg.jpg);    
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
     padding: 4% 2%;
-
-
 }
-
 
 .resume .head{
-    font-weight: 700;
-    
-    
+    font-weight: 700;    
 }
 
-.resume .skillbar{
-    width: 100%;
-    background-color: #ddd;
-    color: white;
-    text-align: right; 
-    
-
+.resume .bg-info{
+    background-color: #1ac9cf !important;
 }
 
-.resume .skillbar .eng{width: 90%; background-color: #1ac9cf;font-family: 'Ubuntu',sans-serif;}
-.resume .skillbar .kor{width: 95%; background-color: #1ac9cf; font-family: 'Ubuntu',sans-serif;}
-
+.resume .progress{
+    background-color: rgb(238, 235, 235);
+    height: 20px;
+}
 
 .resume .edu{
     font-weight: bold;
