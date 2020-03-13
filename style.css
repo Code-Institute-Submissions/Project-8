@@ -27,8 +27,8 @@
     font-size: 20px;
 }
 
-.masthead .tab{
-    padding-left: 15%;
+.masthead p.tab{
+    padding-right:20%;
 }
 
 .masthead h1, .masthead h3{
@@ -149,7 +149,7 @@
 .skill .boxtext{
     margin-top: 50px;
     font-family: 'Gamja Flower', sans-serif;
-    color: #000;
+    color: #333;
 
 }
 
