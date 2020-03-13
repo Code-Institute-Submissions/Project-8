@@ -129,6 +129,13 @@
     height: 22px;
 }
 
+.progress-bar{
+    color: #333;
+    text-align: right;
+    padding-right: 0.4em;
+    font-weight: bold;
+}
+
 .skill .box{
     width: 300px;
     height: 100px;
@@ -183,7 +190,7 @@
 
 .resume .progress{
     background-color: rgba(223, 217, 217, 0.897);
-    height: 20px;
+    height: 20px;   
 }
 
 .resume .edu{
