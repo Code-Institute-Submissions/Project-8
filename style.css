@@ -63,56 +63,39 @@
     font-family: 'Nanum Pen Script',sans-serif;
     font-size: 2.05em;        
     color: white;
-}
+    }
 
 .masthead p span{
     font-family: 'Lato', sans-serif;
     font-size: 0.3em;
-}
+    }
 
 .masthead p.tab{
     padding-right:21%;
-}
+    }
 
 .masthead h1{
     font-family: 'Roboto Condensed', sans-serif;  
     color: #1ac9cf;
     margin-top: 30px;
     font-size: 50px;          
-}
+    }
 
 .masthead h3{
     font-family: 'Roboto Condensed', sans-serif;  
     color: #1ac9cf;  
     font-size:30px;       
-}
+    }
 
 .masthead h1 span{    
     font-family: 'Michroma',sans-serif;   
     color: white;
-}
+    }
 
 .masthead h3 span{
     color: white;
+    }
 }
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -168,13 +151,13 @@
     .about h1{
     font-family: 'Ubuntu', sans-serif;
     text-align: center;
-}
+    }
 
     .about p{
         font-family: 'Red Hat Text', sans-serif;
         font-size: 1.3em;
         text-align: center;
-        }
+    }
 }
 
 
@@ -239,14 +222,13 @@
     .skill .box{   
         width:44%;
         height: 50%;
-        }
+    }
 
     .skill .boxtext{
         margin-top: 20%;
         font-size: 1.2em;    
     }
 }
-
 
 
 
