@@ -14,6 +14,9 @@
 
 
 
+
+
+
 .masthead{
     height: 100vh;          
     background-image: linear-gradient(to bottom, rgba(245, 246, 252, 0.52), rgba(117, 19, 93, 0.73)), url(/img/main.jpg);
@@ -51,6 +54,65 @@
 .masthead h3 span{
     color: white;
 }
+
+
+
+
+@media only screen and (max-width:854px){
+    .masthead p{
+    font-family: 'Nanum Pen Script',sans-serif;
+    font-size: 2.05em;        
+    color: white;
+}
+
+.masthead p span{
+    font-family: 'Lato', sans-serif;
+    font-size: 0.3em;
+}
+
+.masthead p.tab{
+    padding-right:21%;
+}
+
+.masthead h1{
+    font-family: 'Roboto Condensed', sans-serif;  
+    color: #1ac9cf;
+    margin-top: 30px;
+    font-size: 50px;          
+}
+
+.masthead h3{
+    font-family: 'Roboto Condensed', sans-serif;  
+    color: #1ac9cf;  
+    font-size:30px;       
+}
+
+.masthead h1 span{    
+    font-family: 'Michroma',sans-serif;   
+    color: white;
+}
+
+.masthead h3 span{
+    color: white;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -134,7 +196,7 @@
 
 .skill .progress{
     background-color: rgba(223, 217, 217, 0.897);
-    height: 6%;
+    height: 20px;
 }
 
 .progress-bar{
@@ -213,7 +275,7 @@
 
 .resume .progress{
     background-color: rgba(223, 217, 217, 0.897);
-    height: 70%;   
+    height: 20px;   
 }
 
 .resume .edu{
