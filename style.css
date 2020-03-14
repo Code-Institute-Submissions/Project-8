@@ -322,6 +322,20 @@
     font-family: 'Ubuntu', sans-serif;    
 }
 
+.contact .btn{
+    text-align: center;
+}
+
+@media only screen and (max-width:575px){
+    .contact .container{    
+    text-align: center;
+    }    
+
+    .contact .form-control{
+        text-align: center;
+    }
+}
+
 
 
 
@@ -332,7 +346,7 @@ footer{
 }
 
 footer i.sns{
-    font-size: 1.5em;
+    font-size: 1.5em;    
 }
 
 
