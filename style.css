@@ -20,22 +20,22 @@
     background-size: cover;
     background-repeat: no-repeat;  
     background-position: center;  
-    background-attachment: fixed;
+    background-attachment: fixed;    
 }
 
 .masthead p{
     font-family: 'Nanum Pen Script',sans-serif;
-    font-size: 65px;        
+    font-size: 4.05em;        
     color: white;
 }
 
 .masthead p span{
     font-family: 'Lato', sans-serif;
-    font-size: 20px;
+    font-size: 0.3em;
 }
 
 .masthead p.tab{
-    padding-right:13%;
+    padding-right:21%;
 }
 
 .masthead h1, .masthead h3{
@@ -51,6 +51,7 @@
 .masthead h3 span{
     color: white;
 }
+
 
 
 
@@ -124,7 +125,7 @@
     font-family: 'Gamja Flower', sans-serif;
     font-size: 1.5em;
     margin-bottom: 0;  
-    margin-top: 5px;    
+    margin-top: 1%;    
    }
 
 .skill .bg-info{
@@ -133,7 +134,7 @@
 
 .skill .progress{
     background-color: rgba(223, 217, 217, 0.897);
-    height: 22px;
+    height: 6%;
 }
 
 .progress-bar{
@@ -144,8 +145,8 @@
 }
 
 .skill .box{
-    width: 300px;
-    height: 100px;
+    width:26%;
+    height: 40%;
     position: absolute;
     top: 50%;
     left: 40%;
@@ -153,11 +154,25 @@
     z-index: 0;   
 }
 
+@media only screen and (max-width:800px){
+    .skill .box{   
+        width:44%;
+        height: 50%;
+        }
+}
+
 .skill .boxtext{
-    margin-top: 50px;
+    margin-top: 15%;
     font-family: 'Gamja Flower', sans-serif;
     color: #333;
 
+}
+
+@media only screen and (max-width:800px){
+    .skill .boxtext{
+        margin-top: 20%;
+        
+    }
 }
 
 
@@ -169,18 +184,19 @@
 .resume{
     background-color: rgb(253, 249, 252);
     font-family: 'Ubuntu', sans-serif;
-    height: 100%;
-    min-height: 160vh;
+    height: 100%;    
+    padding: 4% 2%;
+    padding-bottom: 9%;
+    
 }
 
 .resume .container{
     height: 100%;        
     background-image: linear-gradient(to bottom, rgba(245, 246, 252, 0.52), rgba(245, 237, 243, 0.562)), url(/img/23.jpg);
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;    
     background-position: center;
-    background-attachment: fixed;
-    padding: 4% 2%;
+    background-attachment: fixed;       
 }
 
 .resume .head{
@@ -197,7 +213,7 @@
 
 .resume .progress{
     background-color: rgba(223, 217, 217, 0.897);
-    height: 20px;   
+    height: 70%;   
 }
 
 .resume .edu{
@@ -230,6 +246,11 @@
 .contact h1{
     font-family: 'Ubuntu', sans-serif;
 }
+
+.contact .form-group{
+    font-family: 'Ubuntu', sans-serif;    
+}
+
 
 
 
