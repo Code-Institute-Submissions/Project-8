@@ -130,9 +130,7 @@
 
 
 .about h1 span{
-    color: #1ac9cf;
-    font-family: 'Michroma', sans-serif;
-
+    color: #1ac9cf;  
 }
 
 .about p{
@@ -216,27 +214,23 @@
     z-index: 0;   
 }
 
-@media only screen and (max-width:800px){
+.skill .boxtext{
+    margin-top: 15%;
+    font-family: 'Gamja Flower', sans-serif;
+    color: #333; 
+}
+
+@media only screen and (max-width:1025px){
     .skill .box{   
         width:44%;
         height: 50%;
         }
-}
 
-.skill .boxtext{
-    margin-top: 15%;
-    font-family: 'Gamja Flower', sans-serif;
-    color: #333;
-
-}
-
-@media only screen and (max-width:800px){
     .skill .boxtext{
         margin-top: 20%;
-        
+        font-size: 1.2em;    
     }
 }
-
 
 
 
