@@ -71,8 +71,23 @@ The main purpose of the test on the responsive disign is to ensure that the webs
    * Safari - no issue detected
    * Firefox - No major issue detected. However the main landing page appeared nicely on the full screen starting from 110% of view. 
    * Internet Exporer - The typography used in Korean word was not appeared as designed. I used Gamja Flower font using Google Fonts for the words. However it was not shown with Gamja Flower and the font size was also appeared bigger (input image). This issue is still remain unresolved.
-#### Deployment
-Github pages was used to host the website, deployed directly from the master branch. 
+## Deployment
+Github pages was used to host the website. Since it was deployed directly from the master branch, any chages made on the website was promptly updated accordingly.  
+
+[Deployed URL : My Portfolio Website] (https://suchan5.github.io/Project-1/) 
+
+#### Error faced while deploying  
+All the images were not shown. I deemed it as timing issue and waiting for up to few hours but it was not working. Subsequently, I un-deployed and re-deployed. However it was still not showing the images.
+
+It was due to the dash(/) put infront of the images. For example :
+```html
+<imr src="/img/bg.jpg">
+```
+The error was successfully resolved after removing the dashes.
+## Credit
+#### Images
+* Unsplash (https://unsplash.com) - for main background on the landing page & the lego clock image in the Resume page
+
 
 
 
