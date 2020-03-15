@@ -74,7 +74,8 @@ The main purpose of the test on the responsive disign is to ensure that the webs
 ## Deployment
 Github pages was used to host the website. Since it was deployed directly from the master branch, any chages made on the website was promptly updated accordingly.  
 
-[Deployed URL : My Portfolio Website] (https://suchan5.github.io/Project-1/) 
+[My Portfolio Website] (https://suchan5.github.io/Project-1/) 
+[My Github Page] (https://github.com/suchan5/Project-1)
 
 #### Error faced while deploying  
 All the images were not shown. I deemed it as timing issue and waiting for up to few hours but it was not working. Subsequently, I un-deployed and re-deployed. However it was still not showing the images.
@@ -86,7 +87,14 @@ It was due to the dash(/) put infront of the images. For example :
 The error was successfully resolved after removing the dashes.
 ## Credit
 #### Images
-* Unsplash (https://unsplash.com) - for main background on the landing page & the lego clock image in the Resume page
+* Unsplash (https://unsplash.com) - for main background on the landing page & the Lego block image in the Resume page
+* () - for the Lego popart image in the Contact page 
+#### Ackowledgement
+* W3schools (https://www.w3schools.com/howto/howto_css_shake_image.asp) - for the shaking image effect on About Me page
+* WIX (https://www.wix.com/website/templates/html/portfolio-cv) - my portfolio website is inspired and motivated to design by referring many examples from WIX :
+   * [Reference 1] (https://www.wix.com/website-template/view/html/1887?siteId=5d2a8f2b-b726-45f6-9db1-92596eccc9d2&metaSiteId=28a077e8-599e-452b-959b-5946202e015b&originUrl=https%3A%2F%2Fwww.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fportfolio-cv)
+   * [Reference 2] (https://www.wix.com/website-template/view/html/2435?siteId=533aef86-18c8-4427-be63-ae8a2501f68a&metaSiteId=764460cd-c7fe-4f6a-a067-003262b73bd4&originUrl=https%3A%2F%2Fwww.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fportfolio-cv)
+   * [Reference 3] (https://www.wix.com/website-template/view/html/2180?siteId=b7d73208-d8ee-4340-bf37-b47688493e45&metaSiteId=b4078cf5-3191-4555-99b8-4afb3f61a921&originUrl=https%3A%2F%2Fwww.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fportfolio-cv%2F2)
 
 
 
