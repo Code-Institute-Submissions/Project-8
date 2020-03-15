@@ -11,3 +11,10 @@ Based on the goals identified, this website is focusing on the three strategies 
 * Easy to use
 * Presentable
 * Informative
+# Features  
+### Existing Features  
+#### Home  
+* Navbar to show the overview of the contents of the website
+* A bried introduction about myself on the landing page
+* Modern typography chosen and a friendly image used to attract users, and to make them stay and explore further the website
+* A button placed to direct link to view my resume for those users who would like to go straight to the point
