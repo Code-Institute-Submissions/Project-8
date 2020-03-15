@@ -12,7 +12,7 @@ Based on the goals identified, this website is focusing on the three strategies 
 * Presentable
 * Informative
 # Features  
-### Existing Features  
+## Existing Features  
 #### Home  
 * Navbar to show the overview of the contents of the website. Navbar is fixed at the top of the website so that users can access to it at anytime while exploring
 * A bried introduction about myself on the landing page
@@ -31,8 +31,18 @@ Based on the goals identified, this website is focusing on the three strategies 
 #### Contact
 * Contact form for users who want to contact or leave an inquiry directly in the website . Task can be performed simply by filling and submiting the contact form
 * Placeholder for user guidance when filling the contact form. It enables easier user experience
-* More forms of contact paths are available in the footer. Once clicked, icons will show my Github, Linkedin, Instagram pages or trigger a call to my number once or to my email
+* More forms of contact paths are available in the footer. Once clicked, icons will redirect to my Github, Linkedin, Instagram pages or trigger a call to my number or to my email
 * Image, typography, icons, colors used to give friendly image and consistency in terms of design aspects throughout the website
 * copytight declared in the footer
-### Features left to implement
-* Portfolio page will be added for continuous updates with different kind of projects completed in the future
+## Features left to implement
+Portfolio page will be added for continuous updates with different kind of projects completed in the future
+# Technologies used
+* HTML5 - used to build the structure of the website
+* CSS3 - used to give design effect and style to the website. Also, media query used for responsive design function
+* Bootstrap 4.4 (https://getbootstrap.com) - used for easier structure and style for the website with responsive design for different media sizes
+* Google Fonts (https://fonts.google.com)  - used for different typographies for design effect
+* Font Awesome (https://fontawesome.com) - used for the social media and email icons in the footer
+* Flaticon (https://www.flaticon.com) -  used for the rest of colorful icons for the websites
+# Testing
+
+
