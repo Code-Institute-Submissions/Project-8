@@ -56,10 +56,11 @@ The main purpose of the test on links and buttons is to ensure that there are no
 The main purpose of the test on the images is to ensure that there are no broken images or images not shown.
 * The background image in the main landing page was not shown when it was tested in my sister's iPhone XR. (In other family members' and friends' phone or laptio, it was nicely presented.)  
 This issue is still remained unresolved :  
-![Error detected on iPhone XR : main background image](img/img_error.jpg)
+![error detexted on iPhone XR](img/img_error.JPG)
 #### Responsive Design
 The main purpose of the test on the responsive disign is to ensure that the website works well and organized in different sizes of the media.
 * Used 'Inspect' function from Google Chrome to test the responsive design in different sizes of the media for the below :  
+![Responsiveness test](img/responsive_test.png)
    * Navbar and the Skills page work well as I used Bootstrap for the structure and design.
    * However the main page was not responsive according to the different sizes. A Korean phrase which is placed on the top of the Main page was shown hidden under the navbar. Also the 'View Resume' button was out of the Main landing page. To resolve this, I tried to rebuild the main landing page with Jumbotron in Bootstrap, but it could not resolve the problem. In the end, I used media query so that they can nicely fit in responsively. 
    * Also Contact page looked not organized when it was shown on different sizes of the media. I changed the grid to 'col-sm' in Bootstrap and also align the text and Submit button to the center. After that, it looked more organized for users' view.
@@ -68,12 +69,12 @@ The main purpose of the test on the responsive disign is to ensure that the webs
 * Test the website on ['Am I Responsive'](http://ami.responsivedesign.is) to virtually test before sending out the deployed URL to test on the family's and friends' laptop and phones.
 * Sent the deployed URL to family members and friends to test whether the website works responsively without broken images or links in different media sizes (Test was done on laptops, Galaxy S2, iPhone XR, Oppo R11, Galaxy Tab A, and etc).
 * Tested on different browsers (Google Chrome, Safari, Firefox, Internet Explorer) to ensure that the website works well :
-   * Google Chrome - no issues detected as this is where I designed and developed the website
+   * Google Chrome - no issues detected as this is where I designed and developed the website.
    * Safari - no issue detected.
    * Firefox - no issue detected.
    * Internet Exporer - The typography used in Korean word was not appeared as designed. I used 'Gamja Flower' font from Google Fonts for the words. However it was not shown as 'Gamja Flower' and the font size was also appeared bigger.    
 This issue is still remain unresolved :  
-![Error detected on IE : Font used for Korean word](img/font_error.png)
+![error detected on IE](img/font_error.png)
 ## Deployment
 Github pages was used to host the website. Since it was deployed directly from the master branch, any chages made on the website was promptly updated accordingly.  
 
