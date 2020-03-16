@@ -150,11 +150,12 @@
     .about h1{
         font-family: 'Ubuntu', sans-serif;
         text-align: center;
+        
     }
 
     .about p{
         font-family: 'Red Hat Text', sans-serif;
-        font-size: 1.3em;
+        font-size: 1.1em;
         text-align: center;
     }
 }
@@ -230,7 +231,7 @@
 
     .skill p{
         font-size: 1.1em;
-    }
+    }    
 }
 
 
@@ -242,8 +243,7 @@
     font-family: 'Ubuntu', sans-serif;
     height: 100%;    
     padding: 4% 2%;
-    padding-bottom: 9%;
-    
+    padding-bottom: 8%;    
 }
 
 .resume .container{
