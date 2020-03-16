@@ -39,10 +39,10 @@ Portfolio page will be added for continuous updates with different kind of proje
 # Technologies used
 * HTML5 - used to build the structure of the website.
 * CSS3 - used to give design effects and style to the website. Also, media query used for responsive design function.
-* Bootstrap 4.4 (https://getbootstrap.com) - used for structure and style for the website with responsive design for different media sizes.
-* Google Fonts (https://fonts.google.com)  - used for different typographies for design effects.
-* Font Awesome (https://fontawesome.com) - used for the social media icons and an email icon used in the footer.
-* Flaticon (https://www.flaticon.com) -  used for the rest of colorful icons in the portfolio websites.
+* [Bootstrap 4.4](https://getbootstrap.com) - used for structure and style for the website with responsive design for different media sizes.
+* [Google Fonts](https://fonts.google.com)  - used for different typographies for design effects.
+* [Font Awesome](https://fontawesome.com) - used for the social media icons and an email icon used in the footer.
+* [Flaticon](https://www.flaticon.com) -  used for the rest of colorful icons in the portfolio websites.
 # Testing
 #### Links & Buttons
 The main purpose of the test on links and buttons is to ensure that there are no bronken links.
@@ -77,8 +77,8 @@ This issue is still remain unresolved :
 ## Deployment
 Github pages was used to host the website. Since it was deployed directly from the master branch, any chages made on the website was promptly updated accordingly.  
 
-[My Portfolio Website](https://suchan5.github.io/Project-1/ "My Portfolio Website")    
-[My Github Page](https://github.com/suchan5/Project-1 "My Github Page")
+[My Portfolio Website](https://suchan5.github.io/Project-1/)    
+[My Github Page](https://github.com/suchan5/Project-1)
 
 #### Error faced while deploying  
 All the images were not shown when I access the website using the deployed URL. I deemed it as timing issue and waited for up to few hours, but it was not working. Subsequently, I un-deployed and re-deployed. However it was still not showing the images.
@@ -90,14 +90,14 @@ It was due to the dash(/) put in front of the images. For example :
 The error was successfully resolved after removing the dash.
 ## Credit
 #### Images
-* Unsplash (https://unsplash.com) - for main backgroundn image used in the landing page & the Lego block image used in the Resume page
-* Dribble (https://dribbble.com/shots/5025015-Lego-pop-art) - for the Lego Popart image used in the Contact page 
+* [Unsplash](https://unsplash.com) - for main backgroundn image used in the landing page & the Lego block image used in the Resume page
+* [Dribble](https://dribbble.com/shots/5025015-Lego-pop-art) - for the Lego Popart image used in the Contact page 
 #### Ackowledgement
-* W3schools (https://www.w3schools.com/howto/howto_css_shake_image.asp) - for the shaking image effect used in About Me page
-* WIX (https://www.wix.com/website/templates/html/portfolio-cv) - many good examples in WIX gave me inspirations and motivation for my portfoloi website
-   * [Reference 1] (https://www.wix.com/website-template/view/html/1887?siteId=5d2a8f2b-b726-45f6-9db1-92596eccc9d2&metaSiteId=28a077e8-599e-452b-959b-5946202e015b&originUrl=https%3A%2F%2Fwww.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fportfolio-cv "Referehcen 1")
-   * [Reference 2] (https://www.wix.com/website-template/view/html/2435?siteId=533aef86-18c8-4427-be63-ae8a2501f68a&metaSiteId=764460cd-c7fe-4f6a-a067-003262b73bd4&originUrl=https%3A%2F%2Fwww.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fportfolio-cv "Reference 2")
-   * [Reference 3] (https://www.wix.com/website-template/view/html/2180?siteId=b7d73208-d8ee-4340-bf37-b47688493e45&metaSiteId=b4078cf5-3191-4555-99b8-4afb3f61a921&originUrl=https%3A%2F%2Fwww.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fportfolio-cv%2F2 "Reference 3")
+* [W3schools](https://www.w3schools.com/howto/howto_css_shake_image.asp) - for the shaking image effect used in About Me page
+* [WIX](https://www.wix.com/website/templates/html/portfolio-cv) - many good examples in WIX gave me inspirations and motivation for my portfoloi website
+   * [Reference 1](https://www.wix.com/website-template/view/html/1887?siteId=5d2a8f2b-b726-45f6-9db1-92596eccc9d2&metaSiteId=28a077e8-599e-452b-959b-5946202e015b&originUrl=https%3A%2F%2Fwww.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fportfolio-cv)
+   * [Reference 2](https://www.wix.com/website-template/view/html/2435?siteId=533aef86-18c8-4427-be63-ae8a2501f68a&metaSiteId=764460cd-c7fe-4f6a-a067-003262b73bd4&originUrl=https%3A%2F%2Fwww.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fportfolio-cv)
+   * [Reference 3](https://www.wix.com/website-template/view/html/2180?siteId=b7d73208-d8ee-4340-bf37-b47688493e45&metaSiteId=b4078cf5-3191-4555-99b8-4afb3f61a921&originUrl=https%3A%2F%2Fwww.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fportfolio-cv%2F2)
 
 
 
