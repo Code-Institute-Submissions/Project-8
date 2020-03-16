@@ -15,9 +15,9 @@ Based on the goals identified, this website is focusing on the three strategies 
 ### Existing Features  
 #### 'Home' page  
 * A navbar is placed to show the overview of the contents of the website. It is fixed at the top of the website so that users can access to it at anytime while exploring.
-* A short and brief self-introduction about myself placed on the landing page.
+* A short and brief self-introduction about myself is placed on the landing page.
 * Modern typographies are chosen and a friendly background image is used to attract users, and to make them stay to explore further.
-* A button is placed to link directly to Resume page, for those users who would like to go straight to the point.
+* A 'View Resume' button is placed to link directly to Resume page, for those users who would like to go straight to the point.
 #### 'Aabout Me' page
 * I used different colors and typographies to play with words and give an emphasis on the keywords. It enables the users to read the keywords at a glance.
 * Shaking image effect is used to give motions to the static website.
@@ -57,12 +57,12 @@ The main purpose of the test on the images is to ensure that there are no broken
 This issue is still remained unresolved :  
 ![error detexted on iPhone XR](img/img_error.JPG)
 #### Responsive Design
-The main purpose of the test on the responsive disign is to ensure that the website works well and looked organized in different sizes of the media.
+The main purpose of the test on the responsive design is to ensure that the website works well and looked organized in different sizes of the media.
 * Used 'Inspect' function from Google Chrome to test the responsive design in different sizes of the media :  
 ![Responsiveness test](img/responsive_test.png)
    * Navbar and the Skills page worked well.
    * However, the landing page was not responsive according to the different sizes. A Korean phrase which was placed on the top of the landing page was shown hidden under the navbar. Also the 'View Resume' button was shown outside of the landing page. To resolve this, I tried to rebuild the landing page with Jumbotron in Bootstrap, but it could not resolve the problem. In the end, I used media query so that they can nicely fit in responsively. 
-   * Also, Contact page looked not organized when it was shown on smaller sizes of the media. I changed the grid to 'col-sm' in Bootstrap and also align the text and Submit button to the center. After that, it looked more organized for users' view.
+   * Also, Contact page looked not organized when it was shown on smaller sizes of the media. I changed the grid to 'col-sm' in Bootstrap and also align the text and 'Submit' button to the center. After that, it looked more organized for users' view.
 * All the font-size, margin, padding in CSS have been rectified from 'px' to 'em' or '%'.
 * I used media query in CSS to ensure that all are responsive in different media sizes.
 * I tested the website on ['Am I Responsive'](http://ami.responsivedesign.is) to virtually see if it worked well before sending out the deployed URL for further testing on friends' and family's laptop and phones.
@@ -75,7 +75,7 @@ The main purpose of the test on the responsive disign is to ensure that the webs
 This issue is still remain unresolved :  
 ![error detected on IE](img/font_error.png)
 ## Deployment
-Github pages was used to host my portfolio website. It was deployed directly from the master branch, and therefore any chages made was promptly updated accordingly.  
+Github page was used to host my portfolio website. It was deployed directly from the master branch, and therefore any chages made was promptly updated accordingly.  
 
 [My Portfolio Website](https://suchan5.github.io/Project-1/)    
 [My Github Page](https://github.com/suchan5/Project-1)
@@ -90,7 +90,7 @@ It was due to the dashes(/) put in front of the images. For example :
 The error was successfully resolved after removing the dashes.
 ## Credit
 #### Images
-* [Unsplash](https://unsplash.com) - for the backgroundn image used in the landing page & the Lego block image used in Resume page
+* [Unsplash](https://unsplash.com) - for the background image used in the landing page & the Lego block image used in Resume page
 * [Dribble](https://dribbble.com/shots/5025015-Lego-pop-art) - for the Lego Popart image used in Contact page 
 #### Ackowledgement
 * [W3schools](https://www.w3schools.com/howto/howto_css_shake_image.asp) - for the shaking image effect used in About Me page
