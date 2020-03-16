@@ -1,7 +1,7 @@
 # User Centric Front End Development Project 
 This website is designed and developed as a static portfolio website with responsive design for different media sizes.
 
-Focus is on presenting myself to recruiters and employeers who are interested and considering to hire me as their UX/UI designer. 
+Focus is on presenting myself to recruiters and employers who are interested and considering to hire me as their UX/UI designer. 
 # UX
 Goals for myself : To present and show the skills and background I have. Ultimate goal is to get hired.
 
@@ -26,12 +26,12 @@ Based on the goals identified, this website is focusing on the three strategies 
 * Skill bars are added to show what skills I used to create this website. Users can imply that I am able to perform tasks with these skills, and can access whether I am the suitable candidate with skills that they are looking for.
 * Resume page is presented directly below to the skill bars, which enables the  users to further learn about my educational and career background, as well as other qualifications and features.
 * A download button is placed for users to download my full CV with more credible infomation.
-* Image, typography, icons and colors are used to give colorful design effects, and also to give consistency in theme from the previous page.
+* Image, typography, icons and colors are used to give colorful design effects, and also to give consistency in theme continuous from the previous page.
 #### 'Contact' page
 * A contact form is placed for users to contact me or leave an inquiry directly to me in the website. Tasks can be performed simply by filling and submiting the contact form.
 * Placeholders is shown to guide users for the required information which they need to fill-in in the contact form. It enables easier user experiences.
 * More ways to contact are available in the footer. Once clicked, icons will redirect the users to my Github page, Linkedin, Instagram, or trigger a call or an email.
-* An image, typography, icons, and colors are used to give friendly feelings to the users and to give consistency in theme throughout the website.
+* An image, typography, icons, and colors are added to give friendly feelings to the users and to give consistency in theme throughout the website.
 * Copytight declared in the footer.
 ### Features left to implement
 Portfolio page will be added and updated for my future projects.
@@ -94,7 +94,7 @@ The error was successfully resolved after removing the dashes.
 * [Dribble](https://dribbble.com/shots/5025015-Lego-pop-art) - for the Lego Popart image used in Contact page 
 #### Ackowledgement
 * [W3schools](https://www.w3schools.com/howto/howto_css_shake_image.asp) - for the shaking image effect used in About Me page
-* [WIX](https://www.wix.com/website/templates/html/portfolio-cv) - many good examples in WIX gave me inspirations and motivation for my portfoloi website
+* [WIX](https://www.wix.com/website/templates/html/portfolio-cv) - many good examples in WIX gave me inspirations and motivation for my portfolio website
    * [Reference 1](https://www.wix.com/website-template/view/html/1887?siteId=5d2a8f2b-b726-45f6-9db1-92596eccc9d2&metaSiteId=28a077e8-599e-452b-959b-5946202e015b&originUrl=https%3A%2F%2Fwww.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fportfolio-cv)
    * [Reference 2](https://www.wix.com/website-template/view/html/2435?siteId=533aef86-18c8-4427-be63-ae8a2501f68a&metaSiteId=764460cd-c7fe-4f6a-a067-003262b73bd4&originUrl=https%3A%2F%2Fwww.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fportfolio-cv)
    * [Reference 3](https://www.wix.com/website-template/view/html/2180?siteId=b7d73208-d8ee-4340-bf37-b47688493e45&metaSiteId=b4078cf5-3191-4555-99b8-4afb3f61a921&originUrl=https%3A%2F%2Fwww.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fportfolio-cv%2F2)
